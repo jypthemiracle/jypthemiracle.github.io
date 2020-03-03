@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jin Hyung Park"
+title                    : "Jin's World'"
 title_separator          : "-"
-name                     : "Jin's World"
+name                     : "Jin Hyung Park"
 description              : "The blog of Jin that posts that you might like"
 url                      : jypthemiracle.github.io
 baseurl                  : # the subpath of your site, e.g.
