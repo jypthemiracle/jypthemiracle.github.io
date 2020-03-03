@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Jin Hyung Park"
 title_separator          : "-"
-name                     : "Jin Hyung Park"
-description              : "Welcome to the world of jypthemiracle"
+name                     : "Jin's World"
+description              : "The blog of Jin that posts that you might like"
 url                      : jypthemiracle.github.io
 baseurl                  : # the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,30 +106,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jin Hyung Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Making terrible life choices, regreting and managing to overcome it since 1998. bit.ly/jypthemiracle"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: hophfg@yahoo.co.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "bit.ly/jypthemiracle"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/jypthmiracle"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/jinhyungp1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/jypthemiracle"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-link"
+      url: "https://linkedin.com/in/jinhyungp1"
 
 # Site Footer
 footer:
